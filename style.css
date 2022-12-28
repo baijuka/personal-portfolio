@@ -41,7 +41,15 @@ body {
     color: #ffffff;
     height: 400px;
   }
-  
+  .jumbotron-1 {
+    display: flex;
+    align-items: center;
+    background-image: url('./assets/images/pict1.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 200px;
+  }
+
   .jumbotron h2 {
     font-size: 60px;
     font-weight: 700;
